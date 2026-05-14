@@ -5,4 +5,5 @@
 ## Usage
 
 ### Authors
+- Faidat Yusuf
 - Oluwapelumi Hammed
